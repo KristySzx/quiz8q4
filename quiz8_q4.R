@@ -1,4 +1,3 @@
-# quiz8q4
 # Load necessary libraries
 install.packages("ggplot2")
 install.packages("rstanarm")
